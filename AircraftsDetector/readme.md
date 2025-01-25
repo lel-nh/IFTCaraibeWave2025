@@ -1,6 +1,6 @@
 # Aircrafts Data Collection
 
-Ce projet Python utilise une API pour collecter des informations sur les avions aux alentours de l'aéroport de Pointe-à-Pitre (TFFR). Dans le cadre de CaraibeWave2025 réalisé à l'IFT sous la supervisions de Gaël Muscat 
+Ce projet Python utilise une API pour collecter des informations sur les avions aux alentours de l'aéroport de Pointe-à-Pitre (TFFR). Dans le cadre de CaraibeWave2025 réalisé à l'IFT sous la supervisions de Gaël Musquet
 
 ## Description
 
